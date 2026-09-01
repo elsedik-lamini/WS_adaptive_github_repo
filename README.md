@@ -35,7 +35,7 @@ Similarity Coefficient for Large-Scale Rankings." Information Processing
 Letters (submitted).
 ```
 
-A citable archive of this repository is available on Zenodo: [DOI to be added after deposit].
+A citable archive of this repository is available on Zenodo: DOI: 10.5281/zenodo.22239268.
 
 ## License
 
